@@ -1,7 +1,7 @@
 # Angular-Quiz-App
 
 
-This is an Quiz app that is built using AngularJS, HTml, CSS, JS, Bootstrap. This app covers all the functionalities in angularJS like Modules, Views, controllers and Directives as well as Custom directives also. 
+This is an Quiz app that is built using AngularJS, HTml, CSS, JS, Bootstrap v 3.3.7. This app covers all the functionalities in angularJS like Modules, Views, controllers, Directives, factories, Services as well as Custom directives also. 
 
 This app as 3 views where the 1st view will have list of all the turtles name, location etc. 
 
